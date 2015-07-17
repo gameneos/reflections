@@ -16,3 +16,9 @@ when testing new functions in the program
 How do the diagrams help you visualize the branch structure?
 
 to see the parrents of commit ids
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+to create one master
+
+too show the different paths
