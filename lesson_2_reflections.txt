@@ -4,3 +4,11 @@ created a .git folder.  Add files to be tracked
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 its a inbetween area.
 gives you time to work on the files
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+by running git diff --staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when testing new functions in the program 
