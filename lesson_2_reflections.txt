@@ -22,3 +22,8 @@ What is the result of merging two branches together? Why do we represent it in t
 to create one master
 
 too show the different paths
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+auto does not know what to do with same lines of code changed
+manual is more hands on and talking with other dev people on the project
