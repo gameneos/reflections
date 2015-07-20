@@ -5,3 +5,9 @@ working in groups
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 stay in control of your data
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork just on github
+clones when you want to work on your own computer
+branch when you wnat to try something new from the master
