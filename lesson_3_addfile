@@ -15,3 +15,8 @@ branch when you wnat to try something new from the master
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 so you can always get to it.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+sending file back and forth would be easier 
+keeping update staight would be harder
